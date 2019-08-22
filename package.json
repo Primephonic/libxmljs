@@ -1,8 +1,9 @@
 {
-  "name": "libxmljs",
+  "name": "@primephonic/libxmljs",
   "author": "Marco Rogers",
   "contributors": [
-    "Jeff Smick"
+    "Jeff Smick",
+    "Primephonic"
   ],
   "binary": {
     "module_name": "xmljs",
